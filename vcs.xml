@@ -15,10 +15,6 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.alibaba-inc.com:eleme-fe-dt/portal.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/lmk123/oh-my-wechat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
