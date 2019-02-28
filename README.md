@@ -1,4 +1,4 @@
-# WebStorm-Settings
+# WebStorm Settings
 
 这个仓库用来同步我多台电脑上 WebStorm 的设置，你也可以用在你自己的 WebStorm 中，具体操作参见文档 [Sharing Your IDE Settings]( https://www.jetbrains.com/help/webstorm/sharing-your-ide-settings.html) 中的 [Share settings through a settings repository](https://www.jetbrains.com/help/webstorm/sharing-your-ide-settings.html#settings-repository) 一节。
 
